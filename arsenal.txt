@@ -45,31 +45,6 @@ https://wearedevs.net/dinfo/Multiple%20RBX%20Games
 
 
 
-How to change chat remote
-Find this in the script: local chat = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-
-1. Open Dex
-
-2. Execute a RemoteSpy script (I suggest FrostHook)
-https://raw.githubusercontent.com/Nootchtai/FrostHook_Spy/master/Spy.lua
-
-3. Say something in the chat and look at the remote spy for a chat RemoteEvent
-
-4. Change the path to that remote event
-
-Example:
-RemoteEvent name is EventChat
-
-Path of remote: game:GetService("ReplicatedStorage").Remotes.Chat.EventChat
-
-5. ??
-
-6. Profit
-
-
-
-
-
 
 
 
