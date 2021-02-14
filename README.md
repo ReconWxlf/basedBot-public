@@ -8,3 +8,9 @@ This roblox script is dedicated on spamming the chat with racist, homophobic/tra
 Script is obfuscated to prevent skins from stealing the unicode that's used to bypass the chat filter on Roblox
 
 Script was inspired by BibleBot, credits to the person that made the BibleBot script on Roblox.
+
+Here are some fruity examples of what to expect
+
+![image](https://i.imgur.com/tJjd1TG.png)
+![image](https://cdn.discordapp.com/attachments/799733276813164555/810374040718934056/unknown.png)
+![image](https://i.imgur.com/TtAZgGL.png)
