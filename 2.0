@@ -59,7 +59,7 @@ local chat = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.Sa
 math.randomseed(tick())
 local spam = {
 	-- Anti-LGBT lines (Mainly targeting trans and nonbinary because those are the ones I actually fucking hate)
-    "Fact: Trans people do NOT deserve any rights whatsoever.", -- How to piss off the entire LGBT community in one line
+        "Fact: Trans people do NOT deserve any rights whatsoever.", -- How to piss off the entire LGBT community in one line
 	"Fact: Cutting off your male part or growing one does not mean you're the opposite gender.", -- Fact
 	"Fact: Did you know that 43% of trans women has attempted to off themselves every year due to transitioning?", -- Fact
 	"Fact: Transgenders are mentally disabled", -- Opinion, but to piss people off
@@ -74,7 +74,7 @@ local spam = {
 	"Praise straight people",
 	"Transgender people are not valid",
 	"Imagine being trans. That is a YIKES",
-	"I honestly feel so bad for the parents of people who are trans or nonbinary.", -- My actual opinion
+	"I honestly feel so bad for the parents of people that are trans or nonbinary.", -- My actual opinion
 	"Transgender people do not deserve any type of job whatsoever",
 	"TRANS PEOPLE DESERVE TO DlE",
 	"To all the parents of trans/nonbinary people. I am praying for you, for what a disappointment your child has become.",
@@ -96,7 +96,7 @@ local spam = {
 	"Did you know that being gaˆy is a sin?",
 	"Being Transgender is the same thing as being a mentally disabled person.",
 	"Those who supports people who are Transgender were actually thrown against a wall as a child.",
-	"People who are Transgender were severely beaten & thrown in the head at a wall as a child.",
+	"People who are Trans were severely beaten & thrown in the head at a wall as a child.",
 	"Fact: You have a gender, which is male or female. You can not claim that you have 'No Gender'",
 	"Fact: Nonbinary people say they don't have a gender because they were dropped as a child, and completely failed Biology class.",
 	"Fact: Your parents are going to cry of disappointment once they find out that their child is Trans",
