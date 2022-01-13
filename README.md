@@ -7,6 +7,7 @@ This roblox script is dedicated on spamming the chat with racist, homophobic/tra
 
 
 Script was inspired by BibleBot, credits to the person that made the BibleBot script on Roblox.
+
 REMINDER: I AM NOT RESPONSIBLE IF YOUR ROBLOX ACCOUNT GETS WARNED/BANNED/TERMINATED WHEN USING THIS SCRIPT, USING THIS SCRIPT AUTOMATICALLY MEANS YOU AGREE THAT YOU PUT YOUR ACCOUNT AT RISK OF BEING BANNED.
 
 Here are some fruity examples of what to expect
