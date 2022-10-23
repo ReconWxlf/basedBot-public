@@ -1,0 +1,398 @@
+--[[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+based bot 3.0 lol
+created by ReconWolf on v3rm
+
+
+
+
+
+
+
+now, go be a gigachad bigot on roblox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credits: 
+AnthonyIsntHere and ArianBlaack - Anti chat logger script
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wait(2)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/AntiChatLogger.lua"))()
+
+wait(4)
+local spam = {
+	"Fact: Trans people do NOT deserve any rights whatsoever.",
+	"Fact: Cutting off your male part or growing one does not mean you're the opposite gender.",
+	"Fact: Did you know that 43% of trans women has attempted to off themselves every year due to transitioning?",
+	"Fact: Transgenders are mentally disabled",
+	"Fact: Being Transgender is actually considered a mental disorder.",
+	"Fact: If you have a Double X Chromosome, you are a male, if you have a XY Chromosome, you are a female. Transitioning does not change your gender.",
+	"Transgenders needs to literally die.",
+	"Fact: Its not okay to be a male and like other men",
+	"Fact: You literally have a gender, if you think you don't, you are actually mentally ill, and you need to see a doctor.",
+	"Fact: Cringe LGBT people unironically think they have no gender because they were dropped in the head as a baby.",
+	"Transgender people are NOT valid, and NEVER will be.",
+	"Fact: There are 2 biological genders, which are Male and Female. Cutting off your male part doesn't make you a female.",
+	"Praise straight people",
+	"Transgender people are not valid",
+	"Imagine being trans. That is a YIKES",
+	"I honestly feel so bad for the parents of people that are trans or nonbinary.",
+	"Transgender people do not deserve any type of job whatsoever",
+	"TRANS PEOPLE DESERVE TO DlE",
+	"To all the parents of trans/nonbinary people. I am praying for you, for what a disappointment your child has become.",
+	"Even if the parents pretend to support their LGBT children, they are actually dying inside, as they wanted real grandchildren.",
+	"Fact: LGBT = Daddy Issues",
+	"Fun fact: Being gay is against the LAW.",
+	"Fact: Transgender women rarely, if ever pass. It's like a unicorn. Their shoulders are too wide or their midface is too long.",
+	"Fact: Transgender, you will never pass.",
+	"Fact: Lesbians are all fat and ugly. They don't really exist. They are just desperate and can't find a man.",
+	"Fact: According to the CDC, 1 in 5 Active Gay men have HˆIV & over half of those don't even know they have it.",
+	"Fact: Gay men are 10x more likely to use drˆugs than straight men.",
+	"Fact: Up to 50% of lesbians have reported abuse.",
+	"Fact: Gay and transgender students are half as likely to graduate high school than straight students",
+	"Fact: 79% of homosexual men say over half of their partners are strangers",
+	"Fact: Children raised by gay people are twice as likely to be in poverty as children of straight couples.",
+	"Fact: Worldwide, transgenders are 50x more likely to have HˆIV than normal people.",
+	"Did you know that the LGBT community always forces their agendas down peoples throats, which is why they're commonly hated?",
+	"Transgender = Brain & Parenting issue",
+	"NonBinary = Brain issue",
+	"Being Transgender is the same thing as being a mentally disabled person.",
+	"Those who supports people who are Tranˆsgeˆnder were actually thrown against a wall as a child.",
+	"People who are Traˆns were severely beaten & thrown in the head at a wall as a child.",
+	"If you were born with an XX chromosome, you are a FEMALE.",
+	"If you were born with an XY chromosome, you are a MALE.",
+	"You biologically can NOT change your gender.",
+	"Fun fact: Trnas individuals are groomers.",
+	"Nonbinary = Severe Brain Malfunction",
+	"Fact: You have a gender, which is male or female. You can not claim that you have 'No Gender'",
+	"Fact: Nonbinary people say they don't have a gender because they were dropped as a child, and completely failed Biology class.",
+	"Fact: Your parents are going to cry of disappointment once they find out that their child is Trans",
+	"Fact: The parents who kick out their children for being Transgender had actually gotten good parenting as a child.",
+	"Fact: The person who made the whole Gender Theory was actually outed out as a kid toˆuchˆer.",
+	"Fact: Did you know that Black Lives Matter is a terorˆist organization?",
+	"Looting and burning down cities is not going to change anything.",
+	"Fact: AII Liˆves Matter",
+	"Fact: Floyd died to an overˆdose, not due to Deˆrek Chauˆvin having his knee on Floyd's neck.",
+	"Fact: Majority of the 'He did nothing wrong' claims are not justified, and the person had actually committed a crime.",
+	"Fact: Deˆrek Chauˆvin did not 'kill' Floyd due to his race.",
+	"Fact: Kyle Ritˆtenhouse acted in self defense.",
+	"Fact: Kyle Ritˆtenhouse came to a BLM 'protest' to protect businesses from being destroyed by rioters and looters in the area.",
+	"Fact: Kyle Riˆtenhouse was being assaulted by someone with a skateboard, and another person was pointing a gun at him.",
+	"Fact: Kyle Ritˆtenhouse did NOT deserved to be charged.",
+	"Fact: Kyle Ritˆtenhouse is NOT a Whiˆte Supˆremacist",
+	"Most cases of officers 'Racially Profiling' people are not actual cases of racial profiling.",
+	"Imagine randomly coming across a black person getting arrested, and immediately pull out your phone to record, and scream 'HE DONE NUFFIN WRONG'",
+	"Did you know that Antifa is one of the most greatest groups of all time?",
+	"The entire BLM movement are ran by armed Marxists who wants a revolution, and one of the co-founders use the money they made through the organization for their own use.",
+	"The Hong Kong Protests has more support than BLM as a whole.",
+	"Fact: No, it's not White men that are the blame for your issues.",
+	"Fact: No, Systemic racism doesn't exist.",	
+	"Fact: BLM has caused 220 violent demonstrations claiming 35+ innocent lives and billions of property damage. All for a dead criminal.",
+	"Black Lives Matter is an excuse to loot stores and cause riots.",
+	"Did you know that Black Lives Matter is actually a trend?",
+	"Did you know that the BLM website wants ridiculous 'Demands' to be passed?",
+	"Those who support BLM do not know what its like to actually experience racism, and only people say BLM so they don't look like a bad person.",
+	"Fact: Those who chant 'Black Lives Matter' obviously don't care about the organization, so they use that as an excuse to riot & loot stores.",
+	"Fact: Furries will never have rights. Except the right to get shˆot and kiIIed for being an animal.",
+	"Fact: If furries want to be an animal so bad, then we can legally hunt them.",
+	"Fact: Did you know that furries are into beasˆtiaˆlity?",
+	"Why do you furries want to do innapropriate things inside a animal costume? Your parents must be really ashamed of you.",
+	"Imagine giving birˆth to a child, just so they can become a furry and do innapropriate things to animals.",
+	"Furries love to have do innapropriate things with their dogs and cats.",
+	"Did you know that the Furry Fandom are all zoˆoˆphˆiles, which are people who do innapropriate things to animals?",
+	"Fact: All furries want to do innapropriate things to animals",
+	"Fact: All furries genuienly pretend they are actual animals.",
+	"Fact: Defunding the police is a stupid idea that won't work.", 
+	"Pro Tip: When a officer stops your vehicle, show your driver license instead of arguing.",
+	"Pro Tip: Do not reach for anything when an officer is at your vehicle, unless told so.",
+	"Pro Tip: You have to legally do everything that a police officer tells you to do, regardless if its illegal or not.",
+	"Pro Tip: Arguing with a police officer will increase the chances of an arrest, or being placed in handcuffs.",
+	"Did you know that police brutality is a rare occurance, and it doesn't happen all the time, like what the media wants you to believe?",
+	"Fact: The media never reports on black on black crime",
+	"Fact: The media only reports police shootings, because the media is never reports on the good cops.",
+	"Fact: Anyone who says all cops are bad, are actually idiots who think cops only targets Blacks",
+	"Fact: All cops are NOT bad",
+	"Fact: Citizens can NOT police themselves, take a look at CHAZ as a pure example.",
+	"Police Brutality should be a permanent thing.",
+	"Racial Profiling is the best thing we have. We should train more police officers to profile people by their race.",
+	"Fact: Every brony known to exist actually does innapropriate things to kids & horses",
+	"Imagine growing up as a male adult and watching My Little Pony. That's a major yikes.",
+	"Fact: Facts are not racist.",
+	"Y'all fr MALDING over FACTS.",
+	"Me spitting facts does not mean I'm racist.",
+	"The media is full of false information.",
+	"The media only reports on black on white crime, but never reports black on black crime.",
+	"The media only reports on bad cops, but not the good cops.",
+	"Fact: Facts do NOT care about your opinion.",
+	"Fact: Fact dealers are not here for attention.",
+	"Hello! I am fact bot. I bring you guys all of the facts that no one wants to accept.",
+	"Did you know that if you believe these are not facts, you are actually being brainwashed by biased media and fake news?",
+	"Fact: Watching innapropriate videos increases the rate of divˆorce by 20% and makes your male part not work anymore.",
+	"Fact: Women don't deserve rights",
+	"Fact: Did you know that 9/11 was actually an insˆide job?",
+	"Fact: Did you know that the #1 health problem in America is Obesity?",
+	"Fact: America lost a war to some rice farmers",
+	"Did you know that land whales exist in America?",
+	"Hitˆler Did Nothing Wrong.",
+	"Did you know that 'God' doesn't exist?",
+	"God did not 'create' you. You were born because your parents had done innapropriate things unprotected",
+	"Fact: Your 'God' was actually some random person who had a really dumb dream",
+	"Fact: 'God' did not create the universe. Learn what the 'Big Bang' is, you idiot",
+	"Did you know that Heaven and Hell do not exist, or has been proven to exist?",
+	"Fact: Writing an opinion on a book, and calling it a 'Bible' is the stupidest way to get people to follow your trash religion.",
+	"Fact: Religious people are brainwashed into thinking that some random human is their lord and savior.",
+	"Did you know that according to the FBI, Blacks commit 52% of all homicides in America?",
+	"Did you know that 93% of blacks were murdered by other blacks?",
+	"Yellow Fever got its name due to Asians.",
+	"The Atlantic Sˆlaˆve Traˆde was the best thing to happen in the world.",
+	"Why do African Americans always snitch on themselves on their trash rap music?",
+	"Fact: Whites are allowed to be proud. We invented civilization",
+	"Fact: The average black IQ is 15 points lower than white people. Leftists ignore this and blame every black failure on White racism.",
+	"Fact: Blacks are overrepresented among child abusers.",
+	"Fact: 39% of all cop killers are Black, although, Blacks are only 12% of the population.",
+	"Fact: In New York City, 43% of people arrested for doing innapropriate things with women were Black.",
+	"Fact: Blacks kiˆll 14x more often than young White men.",
+	"Fact: Blacks commit 50% of all murders, despite being only 13% of the population.",
+	"Blacks commit more violent crime against Whites",
+	"Blacks are 136x more likely to commit a violent crime against Whites",
+	"Blacks are 2x more likely to commit a hate crime against Whites",
+	"Blacks are 3x more likely than Whites to commit White-collar crime (fraud, bribery, racketeering, embezzlement).",
+	"Fact: Blacks are 80% more likely than Whites to neglect their children.",
+	"Fact: Blacks are more reckless than Whites.", -- based
+	"Fact: Blacks are 50% more likely to cheat on their spoˆuses than Whites",
+	"Fact: Blacks do less homework than Whites.",
+	"Fact: 1,200 deaths (Mostly African Americans) occurs every year over sneakers.", -- LOL
+	"Fact: In London, Blacks are 6x more likely than Whites to be imprisoned.",
+	"Fact: 85% of crime between Blacks and Whites are committed by Blacks.",
+	"Fact: 40% of White people experience racism more than Blacks in Africa.",
+	"Why do African Americans always cry about their trash shoes?",
+	"At least I don't steal money, just like every other Blacks on this planet.",
+	"Fact: African American students raging from 15-24 in school have a higher percentage of dropping out",
+	"Fact: Despite making up 13.4% of the population, African Americans commit 52.7% of all robberies.",
+	"Fact: Despite making up 26% of the population of New York, 74.6% of African Americans were arrested for shootings",
+	"Fact: Despite making up 26% of the population of New York, 61.5% of all robberies were caused by African Americans.",
+	"Fact: Despite making up 26% of the population of New York, 43.2% of all innapropriate cases with Women in New York were caused by African Americans.",
+	"Fact: 75% of African American Males do not meet state reading standards.",
+	"In Canada, Blacks comprise 2% of the population but 6% of prisoners",
+	"64% of Hispanics have IQ scores too low to enter the military.",
+	"Hispanics receive shorter prison sentences than Whites for the same crimes",
+	"Hispanics are imprisoned at a rate 2.9 times that of White people.",
+	"Non-citizen Hispanics are 29% of the federal prison population, despite only being 5% of the population.",
+	"Hispanic immigration has displaced African Americans and raised the Black crime rate.",
+	"Hispanics are 19x more likely than Whites to be a gang member.",
+	"Hispanics are 3x more likely to be in prison than Whites",
+	"Hispanics are 3x as likely as Whites to commit violent crime.",
+	"In America, non-citizen Hispanics are overrepresented among white collar crimes.",
+	"Hispanics are 60% more likely than Whites to neglect their children",
+	"The share of college degrees earned by Hispanics, already very low, has not changed in two decades.",
+	"The Hispanic high school drop out rate of 50% is unchanged across generations.",
+	"Because of demographic changes and low college attendance among Hispanics, per capita income in California is expected to decline",
+	"Native Americans are more likely than other races to have committed violent assaults",
+	"Race is a better predictor of crime than poverty.",
+	"Racism is an automatic part of human behavior. ",
+	"25% of crime in Sweden was committed by immigrants, and 20% more was committed by children of immigrants.",
+	"Did you know that Mexico is full of criminals?",
+	"The election was a fraud. Biˆden had botted votes to win the election.",
+	"Truˆmp has never done anything wrong.",
+	"The Impeachment of Truˆmp was a pure attack to get rid of out greatest President in history.",
+	"Fact: Biˆden wants to start World War 3.",
+	"Did you know that Russians are the most dumbest human beings in the planet, alongside with Africans?",
+	"Fact: Communism has actually worked.",
+	"Imagine watching 9 yeˆar old animated giˆrls and jaˆckiˆng off to them",
+	"Watching loˆli is the equivalent of watching children being involved in sˆexˆual acts",
+	"Fact: People with anime profile pictures tend to defend loˆli, which is animated children engaged in sˆexˆual acts",
+	"Guns are NOT the problem. The problem are the people who OWN the guns.",
+	"AR15's are NOT weapons of war.",
+	"Everyone should actually own a gun. Especially an AR15.",
+	"I don't joke about 9/11, because whenever I do, it has a tendency to crash and burn.",
+	"'Remember kids, subscribe to PewDiePie' - Famous words of my lord and savior, Brenˆton Tarrˆant",
+	"I support Adoˆlf Hitˆler and his decision to exterminate non straights. We need another person like him.",
+	"Fact: Women are less likely to be employed in highly competitive jobs",
+	"Fact: Women with more than 20 partners have an 80% chance of divorce",
+	"Fact: 40% of women with more than 20 partners have a disease",
+	"Fact: Female veterans are 6x more likely to commit suˆiciˆde than women who didn’t serve in the military",
+	"Fact: A third of women only daˆte men because of the free food",
+	"Why can't orphans play baseball? They don't know where home is.",
+	"I wish I had kids one day, so I can tell them how much of a disappointment they are, and beˆat them up.",
+	"Imagine sitting on your chair 24/7 doing nothing except for playing a game. Go outside and stop eating that pizza, manchild",
+	"At least I actually have a job unlike you, where you have to resort to sitting on your chair 24/7 playing games for a living",
+	"African and Middle Eastern immigrants to Sweden with university degrees are less literate than Swedes without degrees.",
+	"Immigrants to Denmark are twice as likely as native Danes to commit violent crime.",
+	"64% of children born to Arabs in Copenhagen are not “functionally literate”.",
+	"In Copenhagen, 84% of people accused of serious crimes are immigrants.",
+	"In Copenhagen, 90% of people accused of serious crime are non-citizens.",
+	"In France, 70% of burglaries are committed by first or second generation immigrants",
+	"In France, 96% of rejected asylum seekers remain in the country",
+	"Second generation African and Asian immigrants to Norway have lower incomes than their parents.",
+	"The descendants of African immigrants to Norway are 60% more likely than their parents to commit crimes",
+	"The children of Asian immigrants to Norway are 80% more likely than their parents to commit a crime.",
+	"Norway’s immigration population more than doubled, from 5% to 12%, in just 10 years.",
+	"Caring for one refugee in Norway costs $24,000 per year",
+	"Spain’s population of foreign-born people increased fivefold in 7 years.",
+	"The average H-1B immigrant is less intelligent and qualified than the average American.",
+	"Immigration has reduced the average skill level of Americans.",
+	"15% of the human genome has been under selective pressures since the races separated",
+	"The purpose of section 8 housing is to move Blacks from elite urban areas to middle class suburbs",
+	"Trans people are 4x more likely than the average person to be infected with disease",
+	"About 88% of children who have gender dysphoria do not hold those beliefs when they grow older.",
+	"Blacks have lower emotional intelligence than Whites.",
+	"67% of people arrested for gun crime in London are Black, although Blacks are only 12% of the population.",
+	"A Black person in Britain is twice as likely to be in jail as to be in university.",
+	"Blacks are more likely to have ADHD than Whites",
+	"More prosperous, egalitarian and healthy nations have more psychological differences between men and women. ",
+	"Women commit about half of domestic violence.",
+	"Gender stereotypes are correct predictors of math and reading ability",
+	"College students who major in fields with a greater proportion of women have lower average IQ",
+	"Less attractive women are more likely to want careers.",
+}
+
+
+
+
+
+
+
+
+
+
+
+
+-- stolen from the anti chat logger script lol
+game:GetService("StarterGui"):SetCore("SendNotification", {
+	Title = "Based Bot 3.0",
+	Text = "Are you ready to become a based gigachad on Roblox?",
+	Icon = "rbxassetid://2541869220",
+	Time = 10
+})
